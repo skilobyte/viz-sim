@@ -16,7 +16,7 @@ const Header: React.FC = () => {
           About
         </a>
         <a
-          href="https://github.com/<your-username>/<your-repo>"
+          href="https://github.com/skilobyte/viz-sim"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-blue-400 transition-colors"
